@@ -16,7 +16,6 @@ for a link [title] and (link) all together
 
 - bullet 1
 - bullet 2
-- bullet 3
 
 ## Change log
 
