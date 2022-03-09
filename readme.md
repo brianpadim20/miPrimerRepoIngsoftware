@@ -17,3 +17,8 @@ for a link [title] and (link) all together
 - bullet 1
 - bullet 2
 - bullet 3
+
+##Change log
+
+###Version 1.0.0
+  -Change documentation inside the readme file for testing purposes
